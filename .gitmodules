@@ -1,3 +1,6 @@
 [submodule "tf/custom/ahud"]
 	path = tf/custom/ahud
 	url = https://github.com/n0kk/ahud.git
+[submodule "tf/custom/clovervidias-captions"]
+	path = tf/custom/clovervidias-captions
+	url = https://github.com/clovervidia/clovervidias-captions.git
